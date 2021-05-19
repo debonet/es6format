@@ -1,0 +1,26 @@
+{
+  "name": "es6format",
+  "version": "1.0.0",
+  "description": "String formatting that replicates the ES6 template operator but executes at runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debonet/es6format.git"
+  },
+  "keywords": [
+    "ES6",
+    "templates",
+    "dynamic",
+    "templates",
+    "formatting"
+  ],
+  "author": "Jeremy De Bonet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debonet/es6format/issues"
+  },
+  "homepage": "https://github.com/debonet/es6format#readme"
+}
