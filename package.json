@@ -1,8 +1,8 @@
 {
   "name": "es6format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "String formatting that replicates the ES6 template operator but executes at runtime.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
