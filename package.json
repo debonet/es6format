@@ -1,5 +1,5 @@
 {
-  "name": "es6format",
+  "name": "@debonet/es6format",
   "version": "1.0.1",
   "description": "String formatting that replicates the ES6 template operator but executes at runtime.",
   "main": "src/index.js",
